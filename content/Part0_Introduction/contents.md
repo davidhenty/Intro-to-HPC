@@ -1,6 +1,10 @@
 # Introduction to High Performance Computing
 
-This course aims to inform users of the principles of how high perofrmance computer (HPC) systems operate and how to efficently utilise the computing power they can offer. The will start with a disucssion of HPC systems hardware and the common strucutures of HPC codes…
+This course aims to inform users of the principles of how high
+performance computer (HPC) systems operate and how to efficently
+utilise the computing power they can offer. The will start with a
+disucssion of HPC systems hardware and the common strucutures of HPC
+codes ...
 
 ```{prereq}
 
