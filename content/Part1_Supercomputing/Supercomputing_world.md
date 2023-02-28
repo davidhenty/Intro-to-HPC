@@ -6,7 +6,7 @@
 
 ## Current Trends and Moore's Law
 
-Over recent decades, computers have become more and more powerful. New computing devices appear on the market at a tremendous rate, and if you like to always have the fastest available personal computer, you need to visit your local computer store very frequently! But how did computers become so powerful, and are there any fundamental limits to how fast a computer can be? To answer these questions, we need to understand what CPUs are made up of.
+Over recent decades, computers have become more and more powerful. New computing devices appear on the market at a tremendous rate, and if you like to always have the fastest available personal computer, you need to visit your local computer store very frequently. But how did computers become so powerful, and are there any fundamental limits to how fast a computer can be? To answer these questions, we need to understand what makes up a modern CPU.
 
 As mentioned previously, our measure of the performance of a CPU-core is based on the number of floating-point operations it can carry out per second, which in turn depends on the clock speed. CPUs are built from Integrated Circuits that consist of very large numbers of transistors. These transistors are connected by extremely small conducting wires which can carry an electric current. By controlling whether or not an electric current goes through certain conducting lines, we are able to encode information and perform calculations.
 
